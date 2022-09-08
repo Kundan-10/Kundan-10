@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Pakajsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pankaj sharma" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pankaj-sharma-62ba8b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj sharma" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009343182358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pankaj saraswat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pankajpandit82210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajfromgharaunda" height="30" width="40" /></a>
+<a href="https://codepen.io/kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/kundanwakudkar/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pankaj sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kundan-wakudkar-b4664b233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kundanwakudkar/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundan wakudkar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/coolkundan10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kundanwakudkar/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kundan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/im_kundan10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kundanwakudkar/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kundan" height="30" width="40" /></a>
 </p>
 
 <span><h2 align="center">Languages and Tools:</h2>

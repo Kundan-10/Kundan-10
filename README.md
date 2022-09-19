@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java backend Development
 
 
-- 📫 How to reach me: kundanwakudkar10@gmail.com
+- 📫 How to reach me: https://kundan-10.github.io/
 
 
 <h3 align="left">Connect with me:</h3>

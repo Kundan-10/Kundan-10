@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m currently learning Java **backend Development**
 - 📫 How to reach me: **https://kundan-10.github.io/**
-- 📫 How to reach me: mailto:**kundanwakudkar10@gmail.com**
+- 📫 How to reach me: **kundanwakudkar10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

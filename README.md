@@ -4,14 +4,13 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-### Hi there  👋 Kundan Wakudkar
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m currently learning Java **backend Development**
-- 📫 How to reach me: **https://kundan-10.github.io/**
+- 📫 How to reach Portfolio: **https://kundan-10.github.io/**
 - 📫 How to reach me: **kundanwakudkar10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

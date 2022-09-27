@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Kundan+Wakudkar!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### Hi there  👋 Kundan Wakudkar
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m currently learning Java **backend Development**
 - 📫 How to reach me: **https://kundan-10.github.io/**
-- 📫 How to reach me: mailto: **kundanwakudkar10@gmail.com**
+- 📫 How to reach me: mailto:**kundanwakudkar10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

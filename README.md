@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Kundan-10&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
+<!--[snake gif](https://github.com/Kundan-10/Kundan-10/blob/output/github-contribution-grid-snake.svg)-->
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 

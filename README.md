@@ -46,15 +46,15 @@ Here are some ideas to get you started:
 
 <!--[snake gif](https://github.com/Kundan-10/Kundan-10/blob/output/github-contribution-grid-snake.svg)-->
   
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />  
 
-![Profile views](https://gpvc.arturio.dev/Kundan-10)  
+ ![Profile views](https://gpvc.arturio.dev/Kundan-10)  
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
   
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
 	
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 

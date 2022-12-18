@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach Portfolio: **https://kundan-10.github.io/**
 - 📫 How to reach me: **kundanwakudkar10@gmail.com**
 
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kundan-wakudkar-b4664b233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundan wakudkar" height="30" width="40" /></a>
@@ -57,8 +58,6 @@ Here are some ideas to get you started:
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-<!-- <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p> -->
 	
 
 

@@ -42,11 +42,10 @@ Here are some ideas to get you started:
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-10&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Kundan-10&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-10&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+ 
 <div>
-
-<!--[snake gif](https://github.com/Kundan-10/Kundan-10/blob/output/github-contribution-grid-snake.svg)-->
+<img  src="https://github.com/Kundan-10/Kundan-10/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" height="255px">
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />  
 

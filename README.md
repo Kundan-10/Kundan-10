@@ -41,10 +41,11 @@ Here are some ideas to get you started:
 <div>
   </br>
   
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-10&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
- 
-<div>
+	
+
+  <img align="right" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-10&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="100%"  />
+
+	
 <img  src="https://github.com/Kundan-10/Kundan-10/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" height="255px">
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />  

@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 <h2 align="center">📊 My Github Stats<h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kundan-10&theme=radical" alt="Samruddhi" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kundan-10&show_icons=true&theme=radical" height="255px" width="47%"/>
+<!--  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kundan-10&show_icons=true&theme=radical" height="255px" width="47%"/>  -->
+	 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kundan-10&theme=react&line_height=40&hide=css" height="255px" width="47%"/> 
 <div>
   </br>
-  
-	
 
-  <img align="right" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-10&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="100%"  />
+	
+	  <img align="right" margin="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kundan-10&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="100%"  />
 
 	
 <img  src="https://github.com/Kundan-10/Kundan-10/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" height="255px">

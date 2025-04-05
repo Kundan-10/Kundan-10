@@ -1,0 +1,30 @@
+name: Generate Snake Animation 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: Kundan-10
+          outputs: |
+            ./github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push the generated Snake files
+        run: |
+          git config --global user.name 'Kundan Wakudkar'
+          git config --global user.email 'kundanwakudkar10@gmail.com'
+          git add .
+          git commit -m "Generate contribution snake 🐍"
+          git push

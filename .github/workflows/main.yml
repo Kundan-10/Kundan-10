@@ -17,9 +17,9 @@ jobs:
         with:
           github_user_name: Kundan-10
           svg_out_path: dist/github-contribution-grid-snake.svg
-          background: transparent
-          color_snake: "#39ff14" # Neon green
-          color_dots: "#ffcc00" # Premium gold color
+          background: "#000000" # Black background
+          color_snake: "#00FF00" # Neon green snake
+          color_dots: "#FFCC00,#FFA500,#FFFF00,#00FF00,#0000FF,#4B0082,#EE82EE" # Premium rainbow dots
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3

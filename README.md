@@ -117,7 +117,7 @@
 <!-- Snake Contribution Graph -->
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kundan-10/Kundan-10/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" height="255px"/>
+  <img src="https://raw.githubusercontent.com/Kundan-10/Kundan-10/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" height="300px"/>
 </p>
 
 <br/>

@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: 🐍 Generate Premium Snake Animation
 
 on:
   schedule:
@@ -12,14 +12,14 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: Kundan-10
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-          # 🎨 Customization options
-          # transparent background
+          # Output path
           svg_out_path: dist/github-contribution-grid-snake.svg
-          # make it transparent for better readability
-          color_snake: "#00ff00" # Bright green snake
-          color_dots: "#ff0000,#ffa500,#ffff00,#00ff00,#0000ff,#4b0082,#ee82ee" # rainbow dots
+          # Transparent background
+          background: transparent
+          # Snake color (Neon green)
+          color_snake: "#39ff14"
+          # Dot colors (Neon palette)
+          color_dots: "#fe53bb,#09fbd3,#f5d300,#00fffc,#f6019d,#fff200"
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3

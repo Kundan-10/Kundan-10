@@ -23,7 +23,7 @@ jobs:
 
       - name: Push the generated Snake files
         run: |
-          git config --global user.name 'Kundan Wakudkar'
+          git config --global user.name 'Kundan-10'
           git config --global user.email 'kundanwakudkar10@gmail.com'
           git add .
           git commit -m "Generate contribution snake 🐍"

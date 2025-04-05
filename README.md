@@ -19,12 +19,50 @@
 <!-- About Me -->
 <h3 align="center">👋 About Me</h3>
 
-- 🔭 Currently working on **Spring Boot Projects**
-- 🚀 Building **Bus Booking System**
-- 🌱 Learning Advanced **Backend Development**
-- 📫 Reach me: **kundanwakudkar10@gmail.com**
-- 🌐 Portfolio: [kundan-10.github.io](https://kundan-10.github.io/)
-- 🎯 Always growing & learning new tech!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Kundan+Wakudkar;Java+Backend+Developer+%F0%9F%92%BB;Spring+Boot+Enthusiast+%F0%9F%9A%80;Building+Scalable+Backend+Systems!" alt="Typing SVG" />
+
+---
+
+### 🚀 Currently Building
+> 🎯 Focused on delivering scalable, secure, and production-ready solutions.
+
+---
+
+### 🌟 Exploring & Growing
+> 📦 Advanced Backend Architecture: **Clean Code, SOLID, Design Patterns**  
+> 🔐 Deepening in **Spring Security**, JWT, and Role-Based Access Control  
+> ☁️ Learning Cloud Deployments: **AWS EC2, S3, and GitHub Actions**
+
+---
+
+### 🧩 Tech Stack in Focus
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-wakudkar-b4664b233/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kundan-10.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundanwakudkar10@gmail.com)
+
+---
+
+### 🎯 Developer Mindset
+- 🔍 Passionate about **problem solving** and **clean architecture**
+- 🚀 Always hungry to learn new technologies and improve
+- 🤝 Open to **collaboration** and contributing to open source
+- 🧩 Love building **projects that solve real-world problems**
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF0266&center=true&vCenter=true&lines=Thank+You+for+visiting+my+profile!;Let's+connect+and+build+something+amazing!%F0%9F%91%BB" alt="Thanks SVG" />
+
 
 <br/>
 

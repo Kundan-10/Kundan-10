@@ -88,7 +88,7 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kundan-10&theme=radical" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kundan-10&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kundan-10&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
